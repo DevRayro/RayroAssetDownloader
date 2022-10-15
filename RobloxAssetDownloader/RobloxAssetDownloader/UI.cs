@@ -27,7 +27,7 @@ namespace RobloxAssetDownloader {
             if (URLBox.Text == "Enter Clothing ID or Catalog URL (eg. 6607924538)") URLBox.Text = "";
             URLBox.Text = Regex.Replace(URLBox.Text, "[^0-9]", ""); }
 
-        private void GithubLink(object sender, EventArgs e) { Process.Start("https://github.com/uDMBK/RobloxAssetDownloader-CSharp"); }
+        private void GithubLink(object sender, EventArgs e) { Process.Start("https://github.com/DevRayro"); }
 
         private void Download(object sender, EventArgs e) {
             string html, imagelocation = "";
