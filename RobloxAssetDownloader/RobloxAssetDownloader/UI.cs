@@ -64,4 +64,4 @@ namespace RobloxAssetDownloader {
             ImageOutput.Image = img;
             
             Directory.CreateDirectory(Environment.CurrentDirectory + "\\Download");
-            img.Save($"{Environment.CurrentDirectory}\\Download\\{URLBox.Text}.png", System.Drawing.Imaging.ImageFormat.Png); }}}
+            img.Save($"Desktop\\Download\\{URLBox.Text}.png", System.Drawing.Imaging.ImageFormat.Png); }}}
