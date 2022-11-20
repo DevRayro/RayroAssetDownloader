@@ -5,4 +5,4 @@ Roblox's AssetDelivery API [does not correctly utilise CORS](https://devforum.ro
 
 <hr>
 
-You can support me [here](https://paypal.me/rayroytb).
+You can support me [here].
